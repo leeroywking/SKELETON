@@ -1,2 +1,2 @@
-# SKELETON
-This is intended to be a project skeleton for code academy
+# lab2actual
+mo-bettah lab2
